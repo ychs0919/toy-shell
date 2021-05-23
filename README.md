@@ -44,11 +44,10 @@ I made functions using this.
 
 -----------------------------------------------------------
 
+printf("\033[0;92;4m(   )033[0m");
 
 -----------------------------------------------------------
-I changed the color by using this command.
- 
- 
+I changed the color by using this command. 
 **added functions**
 
 
