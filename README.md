@@ -1,20 +1,16 @@
 # toy-shell
 
 **How to Add Features**
+
+
 ---------------------------------------------------
-#include <unistd.h>
-
-#include <sys/types.h>
-
-#include <stdio.h>
-
-#include <pwd.h>
-
-#include <stdlib.h>
-
-#include <string.h>
-
-#define LEN_HOSTNAME	30
+	#include <unistd.h>
+	#include <sys/types.h>
+	#include <stdio.h>
+	#include <pwd.h>
+	#include <stdlib.h>
+	#include <string.h>
+	#define LEN_HOSTNAME	30
 
 	int main(void)
 	{
@@ -45,6 +41,8 @@ This command that enables the operation of the letter entered between " and ".
 I made functions using this.
  
 **added functions**
+
+
 exit
 ls
 ls -l
