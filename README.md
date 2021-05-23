@@ -41,6 +41,13 @@ I made it in cwd referring to the file that professor uploaded.
 ----------------------------------------------------  
 This command that enables the operation of the letter entered between " and ".
 I made functions using this.
+
+-----------------------------------------------------------
+
+
+-----------------------------------------------------------
+I changed the color by using this command.
+ 
  
 **added functions**
 
