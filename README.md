@@ -1,7 +1,7 @@
 # toy-shell
 
 **How to Add Features**
--------------------------------------------------
+---------------------------------------------------
 #include <unistd.h>
 #include <sys/types.h>
 #include <stdio.h>
@@ -28,14 +28,14 @@ I made it in cwd referring to the file that professor uploaded.
 
 
 
----------------------------------------------
-if (strcmp(command, "   ") == 0) {
+----------------------------------------------------
+if (strcmp(command, "ls") == 0) {
 
-				system(command);
-				return 0;
+	system(command);
+	return 0;
 
-			}
----------------------------------------------      
+}
+----------------------------------------------------  
 This command that enables the operation of the letter entered between " and ".
 I made functions using this.
  
